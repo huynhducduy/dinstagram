@@ -1,14 +1,12 @@
-// // COLORS
-// $global-color-branch: #ab47bc;
-// $global-color-primary: #3f51b5;
-// $global-color-success: #00ff00;
-// $global-color-error: #f00;
+$color-flamingo: #eb5757;
+	$color-festival: #f2c94c;
+	$color-sunshade: #f79d48;
+	$color-darkgray: #a7a7a7;
+	$color-whitesmoke: #f5f5f5;
+	$color-nero: #252525;
 
-// // COLORS TEXT
-// $global-color-text-branch: #565454;
-
-// // COLORS TEXT STATUS
-// $global-color-text-new: #ffbf00;
-// $global-color-text-approved: #1e7e34;
-// $global-color-text-rejected: #ed2553;
-// $global-color-text-pending: #ff7400;
+	$gradient: linear-gradient(
+	  140deg,
+	  rgba(228, 62, 104, 1) 0%,
+	  rgba(250, 164, 73, 1) 100%
+	);
