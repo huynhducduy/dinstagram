@@ -41,7 +41,7 @@
     "@typescript-eslint/parser": "^4.15.2",
     "@welldone-software/why-did-you-render": "^6.0.5",
     "autoprefixer": "^10.2.4",
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "babel-jest": "^26.6.3",
     "babel-loader": "^8.2.2",
     "babel-plugin-date-fns-next": "^1.0.0",
